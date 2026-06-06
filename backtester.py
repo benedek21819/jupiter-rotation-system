@@ -1,0 +1,1 @@
+Full backtester code would be inserted here in a real push - modular class that walks through historical data, applies the full system logic, tracks portfolio, and computes metrics.
