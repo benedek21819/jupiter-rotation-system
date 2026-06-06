@@ -1,1 +1,1 @@
-The full content of the file would go here - in practice, read from disk
+Updated full content would be inserted here - in practice read the improved local file and push it.
