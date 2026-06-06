@@ -1,0 +1,1 @@
+Full simple daily runner script with clear input section and automatic signal + Jupiter instructions generation.
