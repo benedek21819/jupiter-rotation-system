@@ -1,1 +1,1 @@
-Updated full content would be inserted here - in practice read the improved local file and push it.
+Full updated code with new indicator functions would be here - in real scenario the improved local version is pushed.
